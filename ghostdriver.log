@@ -1,0 +1,56 @@
+PhantomJS is launching GhostDriver...
+[INFO  - 2017-08-05T13:54:14.477Z] GhostDriver - Main - running on port 53582
+[INFO  - 2017-08-05T13:54:14.906Z] Session [91399070-79e5-11e7-b653-857410189d9e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":false,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2017-08-05T13:54:14.906Z] Session [91399070-79e5-11e7-b653-857410189d9e] - page.customHeaders:  - {}
+[INFO  - 2017-08-05T13:54:14.906Z] Session [91399070-79e5-11e7-b653-857410189d9e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.8","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-08-05T13:54:14.906Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 91399070-79e5-11e7-b653-857410189d9e
+[ERROR - 2017-08-05T13:54:24.383Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941264381
+[ERROR - 2017-08-05T13:54:25.474Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941265420
+[ERROR - 2017-08-05T13:54:26.466Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941266409
+[ERROR - 2017-08-05T13:54:27.406Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941267405
+[ERROR - 2017-08-05T13:54:29.872Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941269809
+[ERROR - 2017-08-05T13:54:31.159Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941271113
+[ERROR - 2017-08-05T13:54:32.360Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941272307
+[ERROR - 2017-08-05T13:54:33.331Z] Session [91399070-79e5-11e7-b653-857410189d9e] - page.onError - msg: SyntaxError: Parse error
+[ERROR - 2017-08-05T13:54:33.331Z] Session [91399070-79e5-11e7-b653-857410189d9e] - page.onError - stack:
+
+[ERROR - 2017-08-05T13:54:33.334Z] Session [91399070-79e5-11e7-b653-857410189d9e] - page.onError - msg: ReferenceError: Can't find variable: performance
+[ERROR - 2017-08-05T13:54:33.334Z] Session [91399070-79e5-11e7-b653-857410189d9e] - page.onError - stack:
+  (anonymous function) (https://world.taobao.com/:1080)
+[ERROR - 2017-08-05T13:54:33.562Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941273516
+[ERROR - 2017-08-05T13:54:37.685Z] Session [91399070-79e5-11e7-b653-857410189d9e] - page.onError - msg: ReferenceError: Can't find variable: performance
+[ERROR - 2017-08-05T13:54:37.685Z] Session [91399070-79e5-11e7-b653-857410189d9e] - page.onError - stack:
+  (anonymous function) (https://world.taobao.com/:1080)
+[ERROR - 2017-08-05T13:54:37.989Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941277943
+[ERROR - 2017-08-05T13:54:39.535Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941279479
+[ERROR - 2017-08-05T13:54:41.083Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941281028
+[ERROR - 2017-08-05T13:54:42.610Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941282560
+[ERROR - 2017-08-05T13:54:44.156Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941284101
+[ERROR - 2017-08-05T13:54:45.672Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941285671
+[ERROR - 2017-08-05T13:54:47.208Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941287206
+[ERROR - 2017-08-05T13:54:51.539Z] Session [91399070-79e5-11e7-b653-857410189d9e] - page.onError - msg: ReferenceError: Can't find variable: performance
+[ERROR - 2017-08-05T13:54:51.539Z] Session [91399070-79e5-11e7-b653-857410189d9e] - page.onError - stack:
+  (anonymous function) (https://world.taobao.com/:1080)
+[ERROR - 2017-08-05T13:54:51.833Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941291778
+[ERROR - 2017-08-05T13:54:53.531Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941293480
+[ERROR - 2017-08-05T13:54:55.195Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941295146
+[ERROR - 2017-08-05T13:54:56.995Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941296944
+[ERROR - 2017-08-05T13:54:58.654Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941298600
+[ERROR - 2017-08-05T13:55:00.368Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941300312
+[ERROR - 2017-08-05T13:55:05.744Z] Session [91399070-79e5-11e7-b653-857410189d9e] - page.onError - msg: ReferenceError: Can't find variable: performance
+[ERROR - 2017-08-05T13:55:05.744Z] Session [91399070-79e5-11e7-b653-857410189d9e] - page.onError - stack:
+  (anonymous function) (https://world.taobao.com/:1080)
+[ERROR - 2017-08-05T13:55:06.034Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941305982
+[ERROR - 2017-08-05T13:55:07.521Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941307470
+[ERROR - 2017-08-05T13:55:09.085Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941309033
+[ERROR - 2017-08-05T13:55:10.563Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941310502
+[ERROR - 2017-08-05T13:55:11.985Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941311981
+[ERROR - 2017-08-05T13:55:13.412Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941313411
+[ERROR - 2017-08-05T13:55:14.897Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941314837
+[ERROR - 2017-08-05T13:55:20.366Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941320356
+[ERROR - 2017-08-05T13:55:21.239Z] Session [91399070-79e5-11e7-b653-857410189d9e] - page.onError - msg: ReferenceError: Can't find variable: performance
+[ERROR - 2017-08-05T13:55:21.239Z] Session [91399070-79e5-11e7-b653-857410189d9e] - page.onError - stack:
+  (anonymous function) (https://world.taobao.com/:1080)
+[ERROR - 2017-08-05T13:55:21.981Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941321931
+[ERROR - 2017-08-05T13:55:23.600Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941323546
+[ERROR - 2017-08-05T13:55:25.288Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1501941325238
